@@ -1,5 +1,5 @@
 // importa el contenido de un archivo
-import { heroes } from './data/heroes';
+import { heroes } from '../data/heroes';
 
 /* 
 no vemos nada, si deseamos visualizarlo, en el archivpo que contiene la información, deberiamos exportarlo, para ello debemos anteponer la palabra export al arreglo de la forma
